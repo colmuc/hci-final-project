@@ -1,3 +1,6 @@
 {
-  "headlinesEndPoint": "https://newsapi.org/v2/top-headlines?country=us&apiKey=da4fccbfcf2d40d788bfcba358cdc6fc"
+  "headlinesEndPoint": "https://newsapi.org/v2/top-headlines?country=us&apiKey=da4fccbfcf2d40d788bfcba358cdc6fc",
+  "scienceEndPoint": "https://newsapi.org/v2/top-headlines?country=us&category=science&apiKey=da4fccbfcf2d40d788bfcba358cdc6fc",
+  "sportsEndPoint": "https://newsapi.org/v2/top-headlines?country=us&category=sports&apiKey=da4fccbfcf2d40d788bfcba358cdc6fc",
+  "businessEndPoint": "https://newsapi.org/v2/top-headlines?country=us&category=business&apiKey=da4fccbfcf2d40d788bfcba358cdc6fc"
 }
